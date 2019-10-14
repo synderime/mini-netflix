@@ -1,6 +1,7 @@
 # MiniNetflix
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5cfb2a5d-545f-4f07-a430-c2f08e228cd6/deploy-status)](https://app.netlify.com/sites/zealous-lumiere-653c52/deploys)
 
 ## Development server
 
